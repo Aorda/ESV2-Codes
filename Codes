@@ -4,5 +4,6 @@
     ["featured", 50, "Diamonds"],
     ["awesome", 30, "Diamonds"],
     ["ripsummer", 30, "Diamonds"],
-    ["onemillion", 100, "Diamonds"]
+    ["onemillion", 100, "Diamonds"],
+    ["emotes", 50, "Diamonds"]
 ]
