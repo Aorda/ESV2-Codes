@@ -1,9 +1,9 @@
 [
-    ["Featured", 50, "Diamonds"],
-    ["ExamStudio", 100, "Diamonds"],
-    ["SkydiveForever", 100, "Diamonds"],
-    ["Pets", 100, "Diamonds"],
-    ["HitDaTarget", 100, "Diamonds"],
+    ["featured", 50, "Diamonds"],
+    ["examstudio", 100, "Diamonds"],
+    ["skydiveforever", 100, "Diamonds"],
+    ["pets", 100, "Diamonds"],
+    ["hitdatarget", 100, "Diamonds"],
     ["4mil", 100, "Diamonds"],
-    ["Race", 100, "Diamonds"]
+    ["race", 100, "Diamonds"]
 ]
